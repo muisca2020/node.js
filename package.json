@@ -1,0 +1,17 @@
+{
+  "name": "holamundo",
+  "version": "0.1.0",
+  "description": "Es mi primer hola mundo en node js",
+  "main": "holamundo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LeoSan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "mocha": "^10.1.0"
+  }
+}
